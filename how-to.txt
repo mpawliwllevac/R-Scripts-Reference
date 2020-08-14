@@ -1,0 +1,11 @@
+Uploading stuff on here cause I always forget.
+
+start -> cmd
+
+cd [directory name, no quotes]
+
+git init
+git add [folder name or . for all]
+git commit -m "name commit"
+git remote add origin https://github.com/mpawliwllevac/R-Scripts-Reference.git
+git push -u origin master
