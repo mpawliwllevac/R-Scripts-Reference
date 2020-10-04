@@ -8,4 +8,8 @@ git init
 git add [folder name or . for all]
 git commit -m "name commit"
 
+<<<<<<< HEAD
 git push -u origin master
+=======
+git push -u origin master
+>>>>>>> 333433c6f30d74a971e777e8c6d184ee93e2cc21
